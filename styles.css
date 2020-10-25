@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(231, 231, 231);
+}
+
+.Black-border {
+  border: 4px groove #0099ff;
+}
+
+h2,
+.Black-border,
+#Info,
+p {
+  color: #009900;
+}
+
+li {
+  font-size: 20px;
+}
+
+#Info,
+h1 {
+  font-weight: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
